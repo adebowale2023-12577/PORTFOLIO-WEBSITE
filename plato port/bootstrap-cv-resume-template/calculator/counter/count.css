@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.counter {
+    margin: 50px auto;
+    width: 200px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#count {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+button {
+    width: 80px;
+    height: 40px;
+    font-size: 1em;
+    margin: 5px;
+    cursor: pointer;
+}
